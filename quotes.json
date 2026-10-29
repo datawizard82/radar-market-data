@@ -2,39 +2,39 @@
   "priceDateNote": "Latest available daily closing prices",
   "quotes": {
     "SDGR": {
-      "price": 30.87,
+      "price": 29.99,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     },
     "EROC": {
-      "price": 9.0,
+      "price": 8.97,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     },
     "ABSI": {
-      "price": 11.88,
+      "price": 12.1,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     },
     "ARQT": {
-      "price": 31.45,
+      "price": 31.97,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     },
     "NTLA": {
-      "price": 13.32,
+      "price": 13.23,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     },
     "LWLG": {
-      "price": 4.71,
+      "price": 4.58,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     },
     "LULU": {
-      "price": 105.22,
+      "price": 109.82,
       "currency": "USD",
-      "priceDate": "2026-10-28"
+      "priceDate": "2026-10-29"
     }
   }
 }
